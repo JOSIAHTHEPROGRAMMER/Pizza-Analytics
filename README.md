@@ -7,10 +7,9 @@ This project analyzes a pizza sales dataset to provide insights into sales perfo
 ![Image](https://github.com/user-attachments/assets/c7339919-1ec2-4201-b9c9-c2c7fcce6db6)
 
 ## Dataset  
-Source: Kaggle — Pizza Sales Dataset  
-Link: https://www.kaggle.com/code/mdismielhossenabir/pizza-sales-dataset  
+Source: Kaggle - [Pizza Sales Dataset](https://www.kaggle.com/datasets/nextmillionaire/pizza-sales-dataset)  
 
-The dataset includes transactional-level data and aggregated sales information.
+The dataset includes transactional level data and aggregated sales information.
 
 ## Key Metrics (Example)  
 - Total Revenue: \$140,139.55  
