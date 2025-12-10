@@ -1,6 +1,7 @@
-# 🍕 Pizza Sales Analysis
+# 🍕 Pizza Sales Analysis 
+## Overview 
+![Repo size](https://img.shields.io/github/repo-size/JOSIAHTHEPROGRAMMER/Pizza-Analytics)
 
-## Overview  
 This project analyzes a pizza sales dataset to provide insights into sales performance, product popularity, customer behavior, and overall sales trends.
 
 ## Dataset  
